@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kidafuposu.pages.dev/sitemap.xml
